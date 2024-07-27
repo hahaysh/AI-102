@@ -3,4 +3,4 @@
 
 # 실습 목록들
 ## AI-102 01 AI_Services
-### https://microsoftlearning.github.io/mslearn-ai-services/
+[website] https://microsoftlearning.github.io/mslearn-ai-services/
